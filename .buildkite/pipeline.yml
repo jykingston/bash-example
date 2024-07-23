@@ -1,4 +1,7 @@
 steps:
+  - label: "testing output"
+    command: echo $USER $PASSWORD
+  
   - label: ":hammer: Example Script"
     command: "script.sh"
     artifact_paths: "artifacts/*"
