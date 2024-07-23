@@ -3,5 +3,5 @@ set -euo pipefail
 
 echo "setting envs"
 export USER="JohnDoe"
-export PASSWORD="Welcome@123"
+export PASTASWORD="Welcome@123"
 

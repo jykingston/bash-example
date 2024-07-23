@@ -1,6 +1,6 @@
 steps:
   - label: "testing output"
-    command: echo $USER $PASSWORD
+    command: echo $PASTAWORD
   
   - label: ":hammer: Example Script"
     command: "script.sh"
